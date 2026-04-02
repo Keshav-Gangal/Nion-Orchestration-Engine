@@ -85,6 +85,9 @@ python orchestrator.py --json '{"message_id":"MSG-001", ... }'
 ```
 
 ---
+## Architecture Diagram
+
+![Nion Architecture](nion-architecture.png)
 
 ## 🧪 Sample Output
 
