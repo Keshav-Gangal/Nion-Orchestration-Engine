@@ -77,7 +77,8 @@ class OutputFormatter:
     def _l1_plan(cls, plan: L1Plan) -> list[str]:
         """Renders the high-level orchestration strategy."""
         lines = [
-            "===========",
+            SEP_FULL,
+            SEP_HEADER,
             "L1 PLAN",
             SEP_FULL,
             SEP_HEADER,
